@@ -1,0 +1,60 @@
+﻿LMO_Detailed_Industry,NAICS
+Farms,111 & 112
+"Fishing, hunting and trapping",114
+Forestry and logging,113
+Support activities for agriculture and forestry,115
+Oil and gas extraction,211
+Support activities for mining and oil and gas extraction,213
+Mining,212
+Utilities,22
+Construction,23
+"Food, beverage and tobacco manufacturing",311 & 312
+Wood product manufacturing,321
+Paper manufacturing,322
+Primary metal manufacturing,331
+Fabricated metal product manufacturing,332
+Machinery manufacturing,333
+Ship and boat building,3366
+Transportation equipment manufacturing (excluding shipbuilding),"3361,  3362,  3363, 3364, 3365, 3369"
+Other manufacturing,"313, 314, 315, 316, 323, 324, 325, 326, 327, 334, 335, 337 & 339"
+Wholesale trade,41
+Motor vehicle and parts dealers,441
+Health and personal care stores,446
+Other retail trade (excluding cars and personal care) ,"442,443,444,445,446,447,448,451,452,453 & 454"
+Air transportation,481
+Rail transportation,482
+Water transportation,483
+Truck transportation,484
+Support activities for transportation,488
+"Postal service, couriers and messengers",491 & 492
+"Transit, sightseeing, and pipeline transportation","485,486 & 487"
+Warehousing and storage,493
+Insurance carriers and related activities,524
+Finance,"521, 522, 523 & 526"
+Real estate rental and leasing,53
+"Architectural, engineering and related services",5413
+Computer systems design and related services,5415
+"Management, scientific and technical consulting services",5416
+"Legal, accounting, design, research, and advertising services","5411, 5412, 5414, 5417, 5418 & 5419"
+"Business, building and other support services",55 & 56
+Elementary and secondary schools,6111
+Community colleges,6112
+Universities,6113
+Private and trades education,"6114, 6115, 6116 & 6117"
+Ambulatory health care services,621
+Hospitals,622
+Nursing and residential care facilities,623
+Social assistance,624
+Publishing industries,511
+Motion picture and sound recording industries,512
+Telecommunications,517
+"Broadcasting, data processing, and information","515, 518 & 519"
+"Performing arts, spectator sports and related industries",711
+"Amusement, gambling and recreation industries",713
+Heritage institutions,712
+Accommodation services,721
+Food services and drinking places,722
+"Repair, personal and non-profit services",81
+Federal government public administration,911
+Provincial and territorial public administration,912
+Local and Indigenous public administration,"913, 914 & 919"
